@@ -1,8 +1,3 @@
-/*Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 body{
     font-family: 'Open Sans', sans-serif;
 	margin:0;
@@ -733,8 +728,14 @@ div#portfoliolist {
 /*--our creative end here--*/
 /*--footer--*/
 .footer {
-  background: #444;
-  padding: 4em 0px;
+  background: #000000;
+  padding: 2em 0px;
+}
+.footer-heading {
+	text-align:center;
+	margin-bottom:2em;
+	color:#fff;
+	font-size: 2em;
 }
 .footet-left h3 {
 	font-family: 'Metamorphous', cursive;
@@ -743,6 +744,8 @@ div#portfoliolist {
   font-weight: 600;
   margin: 0;
 }
+
+
 .footet-left ul {
   padding: 0;
   margin-top: 5%;
@@ -751,12 +754,12 @@ div#portfoliolist {
   list-style: none;
   margin: 6px 0px;
 }
-.footet-left ul li a {
+.footet-left ul li {
   color: #999;
   font-size: 15px;
   font-weight: 300;
 }
-.footet-left ul li a:hover, .copy-rights p a:hover {
+.footet-left ul li:hover, .copy-rights p li:hover {
   color: #fff;
   text-decoration: none;
   transition: 0.5s all ease;
@@ -764,39 +767,6 @@ div#portfoliolist {
   -moz-transition: 0.5s all ease;
   -o-transition: 0.5s all ease;
   -ms-transition: 0.5s all ease;
-}
-.sub-text {
-  margin-top: 8%;
-}
-.sub-text input[type="text"] {
-  width: 82%;
-  color: #fff;
-  outline: none;
-  font-family: 'Lato', sans-serif;
-  background: none;
-  font-size: 12px;
-  font-weight: 500;
-  letter-spacing: 2px;
-  padding: 11px 12px;
-  border: 1px solid #fff;
-  -webkit-appearance: none;
-}
-.sub-text input[type="submit"] {
-  border: 1px solid #fff;
-  outline: none;
-  border-left: none;
-  color: #fff;
-  margin-left: -4px;
-  background: url(../images/arrow.png) no-repeat 14px 14px;
-   padding: 3px 22px 16px 19px;
-  -webkit-appearance: none;
-  transition: 0.5s all;
-  -webkit-transition: 0.5s all;
-  -moz-transition: 0.5s all;
-  -o-transition: 0.5s all;
-}
-.sub-text input[type="submit"]:hover {
-  background: url(../images/arw.png) no-repeat 14px 14px;
 }
 .copy-rights {
   margin-top: 5%;

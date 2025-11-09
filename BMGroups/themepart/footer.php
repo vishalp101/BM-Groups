@@ -1,39 +1,49 @@
     <div class="footer">
         <div class="container">
+            <div class="footer-heading">
+                Our Offices
+            </div>
             <div class="footer-main">
+                
                 <div class="col-md-3 footet-left">
-                    <h3>INFORMATION</h3>
+                    <h3>B M Canvassing</h3>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li>Nam tempus bibendum </li>
+                        <li>Ut vulputate nibh eget</li>
+                        <li>In vehicula mattis</li>
+                        <li>Integer sed sagittis ante</li>
+                        <li>Ut fringilla et quam nec</li>
                     </ul>
                 </div>
                 <div class="col-md-3 footet-left">
-                    <h3>CATEGORIES</h3>
+                    <h3>B M Canvassing</h3>
                     <ul>
-                        <li><a href="#">Nam tempus bibendum </a></li>
-                        <li><a href="#">Ut vulputate nibh eget</a></li>
-                        <li><a href="#">In vehicula mattis</a></li>
-                        <li><a href="#">Integer sed sagittis ante</a></li>
-                        <li><a href="#">Ut fringilla et quam nec</a></li>
+                        <li>Nam tempus bibendum </li>
+                        <li>Ut vulputate nibh eget</li>
+                        <li>In vehicula mattis</li>
+                        <li>Integer sed sagittis ante</li>
+                        <li>Ut fringilla et quam nec</li>
                     </ul>
                 </div>
                 <div class="col-md-3 footet-left">
-                    <h3>MY ACCOUNT</h3>
+                    <h3>B M Canvassing</h3>
                     <ul>
-                        <li><a href="#">My account</a></li>
-                        <li><a href="#">My addresses</a></li>
+                        <li>Nam tempus bibendum </li>
+                        <li>Ut vulputate nibh eget</li>
+                        <li>In vehicula mattis</li>
+                        <li>Integer sed sagittis ante</li>
+                        <li>Ut fringilla et quam nec</li>
                     </ul>
                 </div>
                 <div class="col-md-3 footet-left">
-                    <h3>NEWSLETTER</h3>
-                    <div class="sub-text">
-                        <input type="text" value="Enter Your Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter Your Email';}" />
-                        <input type="submit" value="">
-                    </div>
+                    <h3>B M Canvassing</h3>
+                    <ul>
+                        <li>Nam tempus bibendum </li>
+                        <li>Ut vulputate nibh eget</li>
+                        <li>In vehicula mattis</li>
+                        <li>Integer sed sagittis ante</li>
+                        <li>Ut fringilla et quam nec</li>
+                    </ul>
                 </div>
                 <div class="clearfix"> </div>
             </div>
