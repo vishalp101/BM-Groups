@@ -8,47 +8,47 @@
                 <div class="col-md-3 footet-left">
                     <h3>B M Canvassing</h3>
                     <ul>
-                        <li>Nam tempus bibendum </li>
-                        <li>Ut vulputate nibh eget</li>
-                        <li>In vehicula mattis</li>
-                        <li>Integer sed sagittis ante</li>
-                        <li>Ut fringilla et quam nec</li>
+                        <li><h4>Address : </h4></li>
+                        <li>F/109, Gantakaran </li>
+                        <li>Complex, Ganj Bazar,</li>
+                        <li>Nadiad : 387001</li>
+                        <li>Gujarat, India.</li>
                     </ul>
                 </div>
                 <div class="col-md-3 footet-left">
-                    <h3>B M Canvassing</h3>
+                    <h3>Janki Enterprise</h3>
                     <ul>
-                        <li>Nam tempus bibendum </li>
-                        <li>Ut vulputate nibh eget</li>
-                        <li>In vehicula mattis</li>
-                        <li>Integer sed sagittis ante</li>
-                        <li>Ut fringilla et quam nec</li>
+                        <li><h4>Address : </h4></li>
+                        <li>Sankalp Godown,</li>
+                        <li>b/h Nilkanth Party Plot,</li>
+                        <li>Valetva - 388440, Kheda,</li>
+                        <li>Gujarat, India.</li>
                     </ul>
                 </div>
                 <div class="col-md-3 footet-left">
-                    <h3>B M Canvassing</h3>
+                    <h3>Sunrise Agro Process</h3>
                     <ul>
-                        <li>Nam tempus bibendum </li>
-                        <li>Ut vulputate nibh eget</li>
-                        <li>In vehicula mattis</li>
-                        <li>Integer sed sagittis ante</li>
-                        <li>Ut fringilla et quam nec</li>
+                        <li><h4>Address</h4> </li>
+                        <li>Chhatardi Bus Stand,</li>
+                        <li>Khambhat-Dharmaj Road,</li>
+                        <li>Chhatardi, Khambhat, Anand-</li>
+                        <li>388640, Gujarat, India.</li>
                     </ul>
                 </div>
                 <div class="col-md-3 footet-left">
-                    <h3>B M Canvassing</h3>
+                    <h3>Vijaykumar and Company</h3>
                     <ul>
-                        <li>Nam tempus bibendum </li>
-                        <li>Ut vulputate nibh eget</li>
-                        <li>In vehicula mattis</li>
-                        <li>Integer sed sagittis ante</li>
-                        <li>Ut fringilla et quam nec</li>
+                        <li><h4>Address : </h4></li>
+                        <li>Sankalp Godown,</li>
+                        <li>b/h Nilkanth Party Plot,</li>
+                        <li>Valetva - 388440, Kheda,</li>
+                        <li>Gujarat, India.</li>
                     </ul>
                 </div>
                 <div class="clearfix"> </div>
             </div>
             <div class="copy-rights">
-                <p>&copy; 2025 BM Groups Of Comapny. All Rights Reserved | Design by Nexovate Groups </p>
+                <p>&copy; 2025 BM Group Of Comapny. All Rights Reserved | Design by Nexovate Groups </p>
             </div>
         </div>
         <!---->

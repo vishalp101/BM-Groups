@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>BM Groups Of Company | Products </title>
+<title>BM Group Of Company | Products </title>
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <!-- for-mobile-apps -->

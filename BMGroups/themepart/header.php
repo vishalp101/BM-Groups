@@ -6,7 +6,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
     <div class="header-top">
         <div class="container">
             <div class="header-right-text">
-                <h3>Call Us : <a href=tel: +919227421521><i class="fa fa-phone">92274 21521</a></i> Email :  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=" target="_blank"><i>bmgroupsofcompany@gmail.com</a></i></h3>
+                <h3>Call Us : <a href=tel: +919227421521><i class="fa fa-phone">92274 21521</a></i> Email :  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jankienterprise311218@gmail.com" target="_blank"><i>jankienterprise311218@gmail.com</a></i></h3>
             </div>
         </div>
         <div class="clearfix"> </div>
