@@ -115,12 +115,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-8 contact_left">
 					<h4>Below Type Here</h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt dolor et tristique bibendum. Aenean sollicitudin vitae dolor ut posuere.</p>
-					<form>
+					<form id="contact" method="post" onsubmit="return sendToWhatsApp();">
 						<div class="form_details">
-							<input type="text" class="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
-							<input type="text" class="text" value="Email Address" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email Address';}">
-							<input type="text" class="text" value="Subject" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Subject';}">
-							<textarea value="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
+              				<input class="text" name="name" type="text" id="name" placeholder="Full Name" required />
+							<input type="text" class="text" name="email" id="email" placeholder="Enter Email" required />
+							<input class="text" name="subject" type="text" id="subject" placeholder="Subject" required />
+							<textarea class="text" name="message" rows="5" id="message" placeholder="Your Message" required></textarea>
 							<div class="clearfix"> </div>
 							<div class="sub-button">
 								<input type="submit" value="Send message">
@@ -149,5 +149,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<?php include('themepart/footer.php'); ?>
 	<!--footer-starts-->
 </body>
+<script>
+  function sendToWhatsApp() {
+    const name = document.getElementById("name").value.trim();
+    const email = document.getElementById("email").value.trim();
+    const subject = document.getElementById("subject").value.trim();
+    const message = document.getElementById("message").value.trim();
 
+    const whatsappNumber = "9722891500";
+
+    const formattedMessage = `
+📥 *New Inquiry from website*
+----------------------------
+👤 *Name:* ${name}
+📧 *Email:* ${email}
+📝 *Subject:* ${subject}
+💬 *Message:* ${message}
+----------------------------
+📅 *Sent on:* ${new Date().toLocaleString()}
+`;
+
+    const encodedMessage = encodeURIComponent(formattedMessage);
+
+    // Open WhatsApp with pre-filled message
+    window.open(`https://wa.me/${whatsappNumber}?text=${encodedMessage}`, '_blank');
+
+    return true; // Continue with form submission
+  }
+</script>
 </html>

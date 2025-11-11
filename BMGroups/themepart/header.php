@@ -14,7 +14,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
     <div class="header-nav">
         <div class="container">
             <div class="logo">
-                <a href="Index.php"><img src="images/logo.png" /></a>
+                <a href="Index.php"><img src="images/logo.jpg" /></a>
             </div>
             <div class="navigation">
                 <nav class="navbar navbar-default">

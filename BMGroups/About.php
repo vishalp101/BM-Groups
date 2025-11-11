@@ -180,6 +180,102 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</p>
 					</div>
 				</section>
+				<section class="history-section">
+					<div class="history-content">
+						<h3 class="history-title"> <span>2008 – Present | B. M. Canvassing, Nadiad</span></h3>
+						<p>
+						<ul class="history-text">
+							<li>Founded B. M. Canvassing, a wholesaler commission agent firm, located at:
+								117 Ghantakaran Complex, Gunj Bazar, Nadiad (now shifted to 109 Ghantakaran Complex).
+							</li>
+							<li>Specialization in commission-based trading of all types of grains, including :
+								<ul>
+									<li>Wheat</li>
+									<li>Millet</li>
+									<li>Maize</li>
+									<li>Paddy</li>
+									<li>Rice</li>
+									<li>Chana</li>
+									<li>Chicory</li>
+									<li>Soyabean</li>
+								</ul> 
+							</li>
+							<li>Recognized as a trusted intermediary between farmers, wholesalers, and mills, 
+								with strong expertise particularly in wheat, chana, millet, and rice.
+							</li>
+						</ul>
+						</p>
+					</div>
+				</section>
+				<section class="history-section">
+					<div class="history-content">
+						<h3 class="history-title"> <span>2020 – Present | Janki Enterprise</span></h3>
+						<p>
+						<ul class="history-text">
+							<li>Established Janki Enterprise, a wholesaler trading firm.</li>
+							<li>Engaged in large-scale procurement and distribution of :
+								<ul>
+									<li>Wheat</li>
+									<li>Millet</li>
+									<li>Maize</li>
+									<li>Paddy</li>
+									<li>Rice</li>
+									<li>Chana</li>
+									<li>Chicory</li>
+								</ul> 
+							</li>
+							<li>Expanded market reach and product diversity to serve broader trading networks.</li>
+						</ul>
+						</p>
+					</div>
+				</section>
+				<section class="history-section">
+					<div class="history-content">
+						<h3 class="history-title"> <span>2023 – Present | Sunrise Agro Process, Khambhat</span></h3>
+						<p>
+						<ul class="history-text">
+							<li>Initiated construction of a rice mill in Khambhat 
+								(project started in 2021, processing commenced in 2023).
+							</li>
+							<li>Operations focus: processing and production of all types of raw rice.</li>
+							<li>Trading and sales include multiple commodities such as :
+								<ul>
+									<li>Wheat</li>
+									<li>Millet</li>
+									<li>Paddy</li>
+								</ul> 
+							</li>
+							<li>Aimed at integrating processing, production,
+								 and distribution to improve value addition and efficiency in grain trade.
+							</li>
+						</ul>
+						</p>
+					</div>
+				</section>
+				<section class="history-section">
+					<div class="history-content">
+						<h3 class="history-title"> <span>2024 – Present | Vijaykumar & Company, Nadiad Road</span></h3>
+						<p>
+						<ul class="history-text">
+							<li>Launched Vijaykumar & Company, operating from Saklap Godown,
+								 Valetva Chokdi, Nadiad Road.
+							</li>
+							<li>Business focus on wholesale trading and procurement for mills, covering :
+								<ul>
+									<li>Wheat</li>
+									<li>Millet</li>
+									<li>Maize</li>
+									<li>Paddy</li>
+									<li>Rice</li>
+									<li>Chana</li>
+									<li>Chicory</li>
+								</ul> 
+							</li>
+							<li>Engaged in buying from farmers and wholesale trading to mills, strengthening supply chain integration and farmer partnerships.</li>
+						</ul>
+						</p>
+					</div>
+				</section>
 			</div>
 		</div>
 	</div>
